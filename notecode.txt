@@ -1,0 +1,37 @@
+.btn-secondary:hover {
+    background-color: #1D1E21;
+    background-color: rgba(88, 101, 242, .7);
+}
+<<<<STYLE BUTTON DISCORD>>>>
+                  <a class="btn btn-secondary" href="pages/commands.html" role="button"><i class="far fa-list-alt"></i> Commands</a>
+<<<<BUTTON DISCORD+STYLE(1)>>>>
+<a class="btn btn-primary" href="https://top.gg" target="_none" role="button"><i class="🔗"></i> vote </a>
+<<<<BLUE BUTTON DISCORD>>>>
+.btn-primary {
+    background-color: #5865F2;
+<<<<STYLE BUTTON DISCORD>>>
+<script>
+        window.setTimeout(function() {
+    $(".alert").fadeTo(500, 0).slideUp(500, function(){
+        $(this).remove(); 
+    });
+}, 20000);
+      </script>
+<div class="alert alert-success" role="alert">
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+  
+</div>
+<<<<<<NOTIFICATION BOX>>>>>
+     <a href="http://ninhkieu.edu.vn/thcsluongthevinh/">
+        <div class="event-left-content">
+          <div class="title-event">
+             <h2> Lễ Hội Xuân</h2>
+            <div class="event-date"> January 15, 2022 </div>
+            <div class="event-location">THCS Lương Thế Vinh</div>
+          </div>
+        </div>
+         </a>
+          
+        
+         
+<<<<<<<<<<<UPCOMING EVENT{>>}
